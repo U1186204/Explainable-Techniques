@@ -1,0 +1,21 @@
+name: Run Notebook CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  run-notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build -t spotify-churn-xai .
+
+      - name: Run notebook in Docker container
+        run: docker run --rm spotify-churn-xai
