@@ -13,7 +13,8 @@
 This project explores the use of Explainable AI (XAI) techniques to understand and interpret a predictive model for Spotify user churn. After building and tuning an XGBoost classifier, the notebook focuses on global interpretation methods to uncover the key drivers behind the model's predictions.
 
 ### Repository Map
-.
+```txt
+Explainable-Techniques
 ├── .github/workflows/
 │   └── ci.yml            # GitHub Actions CI Workflow
 ├── Dockerfile              # Docker configuration for the environment
@@ -22,7 +23,7 @@ This project explores the use of Explainable AI (XAI) techniques to understand a
 ├── main.ipynb              # The main Jupyter Notebook
 ├── README.md               # This file
 └── requirements.txt        # Python dependencies
-
+```
 
 ### Dataset
 
