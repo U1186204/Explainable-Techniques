@@ -1,8 +1,9 @@
-# XAI | Explainable Techniques
-
 [![CI Status](https://github.com/U1186204/Explainable-Techniques/actions/workflows/ci.yml/badge.svg)](https://github.com/U1186204/Explainable-Techniques/actions/workflows/ci.yml)
 [![Repo](https://img.shields.io/badge/GitHub-Explainable--Techniques-blue?logo=github)](https://github.com/U1186204/Explainable-Techniques)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/U1186204/Explainable-Techniques/blob/main/main.ipynb)
+
+
+# XAI | Explainable Techniques
 
 ---
 
