@@ -1,6 +1,6 @@
-[![CI Status](https://github.com/U1186204/Explainable-Techniques/actions/workflows/ci.yml/badge.svg)](https://github.com/U1186204/Explainable-Techniques/actions/workflows/ci.yml)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Explainable--Techniques-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/U1186204/Explainable-Techniques)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/U1186204/Explainable-Techniques/blob/main/main.ipynb)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/U1186204/Explainable-Techniques/ci.yml?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/U1186204/Explainable-Techniques/actions/workflows/ci.yml)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/U1186204/Explainable-Techniques)
+[![Open In Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/U1186204/Explainable-Techniques/blob/main/main.ipynb)
 
 
 
